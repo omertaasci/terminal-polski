@@ -1,224 +1,200 @@
-człowiek - human
-słoń - elephant
-tygrys - tiger
-krab - crab
-lew - lion
-pająk - spider
-sukienka - dress
-koszula - shirt
-nosić - to wear
-spodnie - pants
-
-spódnica - skirt
-majtki - underwear
-list - letter
-głos - voice
-tamte - those (girls)
- - tamten pies -> that dog
- - tamta lampa -> that lamp
- - tamto dziecko -> that child
- - Weź te ksiąźki stąd, a przynieś tamte z tamtego pokoju.
- - Take theese books from here, and bring those from that room.
-wasz - your (for wy)
- - Wasz syn
- - Wasza córka
- - Wasze dziecko
- - Wasi rodzice
-nasz - our (to samo jak przykład powyżej)(same as the example above)
-tęskniłem/łam - I missed
-czuję się jak w domu - I feel like home
-mąż - husband
-żona - wife
-
-rodzic/e - parent - parents
-małżeństwo - marriage
-rodzeństwo - siblings
-odpowiedź - answer
-czyja - whose
-kroić - to slice
-nieść - to carry
-dotykaćc - to touch
-wspierać - to support
-odwiedzać - to visit
-produkowac - to produce
-Obecnie - currently
-szanować - to respect
-brać - to take
-dostać - to get
-sprzedawać - to sell
-dostarczać - to deliver
-jeszcze - still
- - Jeszcze tu mieszkam
- ----200---
-zaczynajmy -let's begin
-nawet - even (Nawet on pojechał do Turcji)
-zawsze - always
-ktoś - someone
-więcej - more
-sam - alone  (Jestem sam)
-prosty - simple
-prosto - straight
-przed / zanim - before
-przy - near
-żyć - to live
- - żyję - I am living
-pewnie - sure
-aby - in order to
- - Uczę się polskiego, aby znaleźć dobrą pracę.
- wtedy - at the time
- - wtedy nie wiedziałem
-jasne - of cource 
-cóż - well | czasem - sometimes
- - No cóż, tak czasem bywa.
-miejsce - place
-trzeba - it's necessary to
- - Trzeba kupić chleb
-usiąść - sit down
-można - it's possible / you can
- - tutaj można usiąść 
- facet - guy
- jakiś - some
- - jakiś facet pytał o ciebie
-przykro mi- sorry
- - Bardzo mi przykro
-uważa - thinks
-wiele - many
- - wiele osób uważa, że
-tyle - this much
- - To tyle na dzisiaj
-ani - neither
-pewno - absolutely
-zbyt - too
- - Zbyt drogo
- - To zbyt trudno
-przestać - to stop
- - Przestałem palić rok temu.
-sposób - way
- - Znam dobry sposób na szybką naukę języka
-późno - late
-racja - fairness
- - no tak, racja.
-każdy - each
- - Każdy dzień jest inny.
-Nastrój - mood
-Nadzieję - Hope
-Broń - weapon
-ponieważ - Because
-spojrzeć - to look
- - Muszę spojrzeć na ten raport
-ciągle - all the time
- - Ona ciągle mówi o jedzeniu
-Dokładnie - exactly
-znaleźć - to find
-chwila - moment
- - Za chwilę
-zostać - to stay
-były - previous
-poza - beyond
-żaden - none
-wcześniej - earlier
-dość - enough
-razy - multiplied / by
-wydawac - to spend
-trzymać - to hold
- - Trzymać książkę w ręku
-powód - reason
-dokąd - where
- - dokąd idziesz?
-wziąć - to take
-śmierć - death
-pozwolić - to let
- - pozwolić on
-podczas - during
-parę - a couple / a few
- - Parę osóob
-wrócić - to come back
-diabeł - devil
-poważnie - seriously
---400--
-Powierzchnia - Area / Surface
-zgadzać - to agree
-martwić - to worry
-powrót - return
-wspaniale - great
-ogół - general (in general)
-także - also
-pojąć - to understand
-skarb - treasure
-wybaczyć - to forgive
-szczęście - happiness
-wyjść - to leave
-cieszyć - to enjoy
-krew - blood
-ciało - body
-należy - should be
-przeciwko - against
-ruszać - to move
-oznaczać - to mark
-twarz - face
-bezpieczny - safe
-droga - road
-rada - advice
-zewnżtrz - outside
-wypadek - accident
-zależeć - to depend
-ciężko - hard (seiously)
-kiedykolwiek - whenever
-temat - subject
-wkrótce - soon
-lecieć - to fly
-nieważny - invalid
-zdjąć - to remove
-statek - ship
-dół - hole
-tędy - this way
-według - according to
-jakoś - somehow
-czyli - so (which is/which means)
-chociaż - although
-kłopot - trouble
-szansa - chance
-niemożliwe - impossible
-sądzić - to judge
-zkoda - harm
-sprawdzić - to verify
---500--
-zacząć - to start
-cicho - quietly
-spróbować - to try
-powodzenia - good luck
-środek - middle
-wspólnego - common
-dawno - a long time ago
-zmienić - to change
-gość - guest
-walczyć - to fight
-chwileczkę - wait a minute
-wystarczająco - enough
-niestety - unfortunately
-nagle -suddenly
-więkzość - majority
-błąd - error
-obiecywać - to promise
-początek - beginning
-zatem - therefore
-istnieć - to exist
-wojna - war
-okazja - opportunity
-oraz - at the same time
-niby - kind of
-nienawidzić - to hate
-przysięgać - to swear (yemin)
-strasznie - extremely
-potrafic - to be able
-wybór - choice
-dowiedzieć - to find out
-żartować - to joke
-uwielbiać - to adore
-zwykle - usually
-rozkaz - order(command)
-oboje - both(people only)
-ponownie - again
-walka - a fight
-wreszcie - finally
---600--
+lehce	ingilizce	ornekPL1	ornekEN1	ornekPL2	ornekEN2
+człowiek	human	To jest dobry człowiek.	This is a good person.	Każdy człowiek potrzebuje odpoczynku.	Every human needs rest.
+słoń	elephant	Słoń mieszka w zoo.	The elephant lives in the zoo.	Ten słoń jest bardzo duży.	This elephant is very big.
+tygrys	tiger	Tygrys szybko biegnie.	The tiger runs fast.	Widziałem tygrysa w filmie.	I saw a tiger in a movie.
+krab	crab	Krab chodzi po plaży.	The crab walks on the beach.	Ten krab ma duże szczypce.	This crab has big claws.
+lew	lion	Lew jest królem zwierząt.	The lion is the king of animals.	Mały lew śpi pod drzewem.	A small lion is sleeping under a tree.
+pająk	spider	Pająk siedzi na ścianie.	The spider is sitting on the wall.	Nie boję się pająka.	I am not afraid of spiders.
+sukienka	dress	Ta sukienka jest czerwona.	This dress is red.	Ona nosi nową sukienkę.	She is wearing a new dress.
+koszula	shirt	Moja koszula jest biała.	My shirt is white.	On prasuje koszulę.	He is ironing a shirt.
+nosić	to wear / to carry	Lubię nosić wygodne ubrania.	I like to wear comfortable clothes.	Ona nosi czarną koszulę.	She is wearing a black shirt.
+spodnie	pants / trousers	Te spodnie są za długie.	These pants are too long.	Kupiłem nowe spodnie.	I bought new pants.
+spódnica	skirt	Ta spódnica jest krótka.	This skirt is short.	Ona zakłada spódnicę do pracy.	She puts on a skirt for work.
+majtki	underwear	Muszę kupić nowe majtki.	I need to buy new underwear.	Majtki są w szufladzie.	The underwear is in the drawer.
+list	letter	Napisałem list do mamy.	I wrote a letter to my mother.	Ten list przyszedł rano.	This letter arrived in the morning.
+głos	voice	Masz piękny głos.	You have a beautiful voice.	Usłyszałem jej głos w telefonie.	I heard her voice on the phone.
+tamte	those	Tamte dziewczyny są z Polski.	Those girls are from Poland.	Weź te książki stąd, a przynieś tamte z tamtego pokoju.	Take these books from here and bring those from that room.
+tamten pies	that dog	Tamten pies jest bardzo spokojny.	That dog is very calm.	Widzę tamtego psa przy bramie.	I see that dog by the gate.
+tamta lampa	that lamp	Tamta lampa świeci mocno.	That lamp shines brightly.	Podoba mi się tamta lampa.	I like that lamp.
+tamto dziecko	that child	Tamto dziecko bawi się w parku.	That child is playing in the park.	Znam mamę tamtego dziecka.	I know that child's mother.
+wasz	your (plural, for you all)	Wasz syn jest bardzo miły.	Your son is very nice.	Czy to wasze dziecko?	Is that your child?
+wasz syn	your son (plural you)	Wasz syn jest w szkole.	Your son is at school.	Lubię rozmawiać z waszym synem.	I like talking with your son.
+wasza córka	your daughter (plural you)	Wasza córka jest bardzo zdolna.	Your daughter is very talented.	Czy wasza córka mówi po angielsku?	Does your daughter speak English?
+wasze dziecko	your child (plural you)	Wasze dziecko śpi w pokoju.	Your child is sleeping in the room.	Wasze dziecko lubi zabawki.	Your child likes toys.
+wasi rodzice	your parents (plural you)	Wasi rodzice są mili.	Your parents are nice.	Czy wasi rodzice mieszkają blisko?	Do your parents live nearby?
+nasz	our	Nasz dom jest blisko szkoły.	Our house is near the school.	Nasze dzieci lubią czytać.	Our children like reading.
+nasz syn	our son	Nasz syn uczy się polskiego.	Our son is learning Polish.	Nasz syn lubi sport.	Our son likes sports.
+nasza córka	our daughter	Nasza córka czyta książkę.	Our daughter is reading a book.	Nasza córka chodzi do liceum.	Our daughter goes to high school.
+nasze dziecko	our child	Nasze dziecko jest szczęśliwe.	Our child is happy.	Nasze dziecko śpi spokojnie.	Our child is sleeping peacefully.
+nasi rodzice	our parents	Nasi rodzice mieszkają w Polsce.	Our parents live in Poland.	Nasi rodzice pomagają nam często.	Our parents often help us.
+tęskniłem / tęskniłam	I missed	Tęskniłem za tobą cały tydzień.	I missed you all week.	Tęskniłam za domem, gdy byłam za granicą.	I missed home when I was abroad.
+czuję się jak w domu	I feel at home	Tutaj czuję się jak w domu.	I feel at home here.	W twoim mieszkaniu czuję się jak w domu.	I feel at home in your apartment.
+mąż	husband	Mój mąż pracuje w biurze.	My husband works in an office.	Jej mąż gotuje obiad.	Her husband is cooking dinner.
+żona	wife	Moja żona lubi kawę.	My wife likes coffee.	Jego żona jest nauczycielką.	His wife is a teacher.
+rodzic / rodzice	parent / parents	Każdy rodzic martwi się o dziecko.	Every parent worries about their child.	Moi rodzice mieszkają w Warszawie.	My parents live in Warsaw.
+małżeństwo	marriage	Ich małżeństwo jest szczęśliwe.	Their marriage is happy.	Małżeństwo wymaga cierpliwości.	Marriage requires patience.
+rodzeństwo	siblings	Mam starsze rodzeństwo.	I have older siblings.	Moje rodzeństwo mieszka blisko mnie.	My siblings live near me.
+odpowiedź	answer	Znam odpowiedź na to pytanie.	I know the answer to this question.	Twoja odpowiedź jest poprawna.	Your answer is correct.
+czyja	whose (feminine)	Czyja to książka?	Whose book is this?	Czyja torba leży na krześle?	Whose bag is lying on the chair?
+kroić	to slice / to cut	Muszę kroić chleb.	I need to slice the bread.	Ona kroi warzywa na sałatkę.	She is cutting vegetables for a salad.
+nieść	to carry	Pomogę ci nieść torbę.	I will help you carry the bag.	On niesie dziecko na rękach.	He is carrying the child in his arms.
+dotykać	to touch	Nie wolno dotykać tego obrazu.	You must not touch this painting.	Dziecko chce dotykać wszystkiego.	The child wants to touch everything.
+wspierać	to support	Chcę wspierać moją rodzinę.	I want to support my family.	Przyjaciele wspierają mnie w trudnych chwilach.	Friends support me in difficult moments.
+odwiedzać	to visit	Lubię odwiedzać babcię.	I like visiting my grandmother.	Oni często odwiedzają znajomych.	They often visit friends.
+produkować	to produce	Ta firma produkuje meble.	This company produces furniture.	Polska produkuje dużo żywności.	Poland produces a lot of food.
+obecnie	currently	Obecnie mieszkam w Krakowie.	I currently live in Kraków.	Obecnie uczę się polskiego.	I am currently learning Polish.
+szanować	to respect	Trzeba szanować innych ludzi.	It is necessary to respect other people.	Szanuję twoją decyzję.	I respect your decision.
+brać	to take	Muszę brać lek rano.	I have to take medicine in the morning.	Czy mogę brać tę książkę?	Can I take this book?
+dostać	to get / to receive	Chcę dostać dobrą pracę.	I want to get a good job.	Dostałem wiadomość od kolegi.	I got a message from a friend.
+sprzedawać	to sell	Oni sprzedają świeże owoce.	They sell fresh fruit.	Chcę sprzedać stary telefon.	I want to sell an old phone.
+dostarczać	to deliver	Kurier dostarcza paczki rano.	The courier delivers packages in the morning.	Ta firma dostarcza jedzenie do domu.	This company delivers food to homes.
+jeszcze	still / yet	Jeszcze tu mieszkam.	I still live here.	Czy masz jeszcze czas?	Do you still have time?
+zaczynajmy	let's begin	Zaczynajmy lekcję.	Let's begin the lesson.	Zaczynajmy od prostego przykładu.	Let's begin with a simple example.
+nawet	even	Nawet on pojechał do Turcji.	Even he went to Turkey.	Nawet dziecko to rozumie.	Even a child understands this.
+zawsze	always	Zawsze piję kawę rano.	I always drink coffee in the morning.	Ona zawsze jest punktualna.	She is always punctual.
+ktoś	someone	Ktoś stoi przed drzwiami.	Someone is standing in front of the door.	Ktoś pytał o ciebie.	Someone asked about you.
+więcej	more	Chcę więcej czasu.	I want more time.	Potrzebuję więcej pieniędzy.	I need more money.
+sam	alone / by myself	Jestem sam w domu.	I am alone at home.	Zrobiłem to sam.	I did it by myself.
+prosty	simple	To jest prosty tekst.	This is a simple text.	Mam prosty plan.	I have a simple plan.
+prosto	straight / simply	Idź prosto do końca ulicy.	Go straight to the end of the street.	Powiedz to prosto i jasno.	Say it simply and clearly.
+przed	before / in front of	Spotkajmy się przed szkołą.	Let's meet in front of the school.	Przed pracą piję herbatę.	Before work, I drink tea.
+zanim	before	Zanim wyjdę, zadzwonię do ciebie.	Before I leave, I will call you.	Umyj ręce, zanim zjesz obiad.	Wash your hands before you eat dinner.
+przy	near / by / at	Siedzę przy oknie.	I am sitting by the window.	Sklep jest przy parku.	The shop is near the park.
+żyć	to live	Chcę żyć spokojnie.	I want to live peacefully.	Oni żyją w małym mieście.	They live in a small town.
+żyję	I live / I am alive	Żyję w Polsce od roku.	I have lived in Poland for a year.	Żyję i mam się dobrze.	I am alive and doing well.
+pewnie	sure / probably	Pewnie masz rację.	You are probably right.	Pewnie przyjdę jutro.	I will probably come tomorrow.
+aby	in order to	Uczę się polskiego, aby znaleźć dobrą pracę.	I am learning Polish in order to find a good job.	Wstałem wcześnie, aby zdążyć na pociąg.	I got up early in order to catch the train.
+wtedy	then / at that time	Wtedy nie wiedziałem prawdy.	Then I did not know the truth.	Byłem młody wtedy.	I was young then.
+jasne	of course / clear	Jasne, pomogę ci.	Of course, I will help you.	To jest jasne dla wszystkich.	This is clear to everyone.
+cóż	well	Cóż, musimy spróbować jeszcze raz.	Well, we have to try again.	No cóż, tak czasem bywa.	Well, that is how it sometimes is.
+czasem	sometimes	Czasem chodzę do kina.	Sometimes I go to the cinema.	Czasem uczę się wieczorem.	Sometimes I study in the evening.
+miejsce	place	To miejsce jest piękne.	This place is beautiful.	Nie mam miejsca w torbie.	I do not have room in my bag.
+trzeba	it is necessary / one must	Trzeba kupić chleb.	It is necessary to buy bread.	Trzeba uczyć się regularnie.	It is necessary to study regularly.
+usiąść	to sit down	Możesz usiąść tutaj.	You can sit here.	Chcę usiąść przy oknie.	I want to sit by the window.
+można	it is possible / you can	Tutaj można usiąść.	You can sit here.	Można płacić kartą.	You can pay by card.
+facet	guy	Jakiś facet pytał o ciebie.	Some guy asked about you.	Ten facet wygląda znajomo.	This guy looks familiar.
+jakiś	some / a certain	Jakiś facet pytał o ciebie.	Some guy asked about you.	Mam jakiś problem z telefonem.	I have some problem with my phone.
+przykro mi	I am sorry	Bardzo mi przykro.	I am very sorry.	Przykro mi, nie mogę pomóc.	I am sorry, I cannot help.
+uważa	he / she thinks	Ona uważa, że to dobry pomysł.	She thinks that this is a good idea.	Wiele osób uważa, że polski jest trudny.	Many people think that Polish is difficult.
+wiele	many / much	Wiele osób uczy się języków.	Many people learn languages.	Mam wiele pytań.	I have many questions.
+tyle	this much / so much	To tyle na dzisiaj.	That is all for today.	Nie potrzebuję tyle czasu.	I do not need that much time.
+ani	neither / nor	Nie mam ani czasu, ani pieniędzy.	I have neither time nor money.	Ani ja, ani on nie znamy odpowiedzi.	Neither I nor he know the answer.
+pewno / na pewno	certainly / for sure	Na pewno przyjdę jutro.	I will certainly come tomorrow.	To na pewno jest prawda.	This is certainly true.
+zbyt	too	To jest zbyt drogie.	This is too expensive.	To zbyt trudno dla mnie.	This is too difficult for me.
+przestać	to stop	Przestałem palić rok temu.	I stopped smoking a year ago.	Przestań mówić tak głośno.	Stop speaking so loudly.
+sposób	way / method	Znam dobry sposób na szybką naukę języka.	I know a good way to learn a language quickly.	To jest prosty sposób.	This is a simple way.
+późno	late	Jest już późno.	It is already late.	Nie chcę wracać późno.	I do not want to come back late.
+racja	right / reason	Masz rację.	You are right.	No tak, racja.	Yes, right.
+każdy	each / every	Każdy dzień jest inny.	Every day is different.	Każdy człowiek ma marzenia.	Every person has dreams.
+nastrój	mood	Mam dziś dobry nastrój.	I am in a good mood today.	Muzyka poprawia mi nastrój.	Music improves my mood.
+nadzieja / nadzieję	hope	Mam nadzieję, że przyjdziesz.	I hope that you will come.	Nie trać nadziei.	Do not lose hope.
+broń	weapon	Ta broń jest niebezpieczna.	This weapon is dangerous.	Policja znalazła broń.	The police found a weapon.
+ponieważ	because	Zostałem w domu, ponieważ padał deszcz.	I stayed at home because it was raining.	Uczę się, ponieważ mam egzamin.	I am studying because I have an exam.
+spojrzeć	to look	Muszę spojrzeć na ten raport.	I need to look at this report.	Spójrz na mnie przez chwilę.	Look at me for a moment.
+ciągle	all the time / constantly	Ona ciągle mówi o jedzeniu.	She talks about food all the time.	Ciągle pada deszcz.	It is raining constantly.
+dokładnie	exactly	Dokładnie o to chodzi.	That is exactly the point.	Przeczytaj to dokładnie.	Read this carefully.
+znaleźć	to find	Muszę znaleźć klucze.	I need to find the keys.	Chcę znaleźć dobrą pracę.	I want to find a good job.
+chwila	moment	Poczekaj chwilę.	Wait a moment.	Za chwilę wrócę.	I will come back in a moment.
+zostać	to stay / to become	Chcę zostać w domu.	I want to stay at home.	On chce zostać lekarzem.	He wants to become a doctor.
+były	former / previous	To jest mój były szef.	This is my former boss.	Spotkałem byłego kolegę z pracy.	I met a former colleague from work.
+poza	beyond / outside / except	Poza domem jest zimno.	It is cold outside the house.	Nie znam nikogo poza tobą.	I do not know anyone except you.
+żaden	none / no	Żaden problem nie jest za trudny.	No problem is too difficult.	Nie mam żadnego pytania.	I do not have any question.
+wcześniej	earlier	Wcześniej mieszkałem w Gdańsku.	Earlier I lived in Gdańsk.	Przyjdź trochę wcześniej.	Come a little earlier.
+dość	enough / quite	Mam dość pracy na dziś.	I have had enough work for today.	To jest dość łatwe.	This is quite easy.
+razy	times	Dwa razy dwa to cztery.	Two times two is four.	Byłem tam trzy razy.	I was there three times.
+wydawać	to spend / to seem / to issue	Nie chcę wydawać dużo pieniędzy.	I do not want to spend a lot of money.	To wydaje się proste.	It seems simple.
+trzymać	to hold	Trzymać książkę w ręku.	Hold the book in your hand.	Ona trzyma dziecko za rękę.	She is holding the child by the hand.
+powód	reason	Jaki jest powód twojej decyzji?	What is the reason for your decision?	Mam dobry powód.	I have a good reason.
+dokąd	where to	Dokąd idziesz?	Where are you going?	Nie wiem, dokąd jedzie ten autobus.	I do not know where this bus is going.
+wziąć	to take	Muszę wziąć parasol.	I need to take an umbrella.	Czy mogę wziąć tę książkę?	Can I take this book?
+śmierć	death	Śmierć jest trudnym tematem.	Death is a difficult topic.	Boję się śmierci.	I am afraid of death.
+pozwolić	to allow / to let	Pozwól mi pomóc.	Let me help.	Rodzice pozwolili mu wyjść.	His parents allowed him to go out.
+podczas	during	Podczas lekcji robię notatki.	During the lesson, I take notes.	Poznałem go podczas podróży.	I met him during the trip.
+parę	a couple / a few	Parę osób przyszło wcześniej.	A few people came earlier.	Mam parę pytań.	I have a few questions.
+wrócić	to come back / to return	Chcę wrócić do domu.	I want to return home.	Ona wróciła późno.	She came back late.
+diabeł	devil	Diabeł tkwi w szczegółach.	The devil is in the details.	W bajce był zły diabeł.	There was an evil devil in the fairy tale.
+poważnie	seriously	Mówię poważnie.	I am speaking seriously.	Czy ty mówisz poważnie?	Are you speaking seriously?
+powierzchnia	area / surface	Powierzchnia stołu jest gładka.	The surface of the table is smooth.	To mieszkanie ma dużą powierzchnię.	This apartment has a large area.
+zgadzać się	to agree	Zgadzam się z tobą.	I agree with you.	Oni zgadzają się na ten plan.	They agree to this plan.
+martwić się	to worry	Nie martw się o mnie.	Do not worry about me.	Mama martwi się o syna.	The mother worries about her son.
+powrót	return	Powrót do domu był długi.	The return home was long.	Czekam na twój powrót.	I am waiting for your return.
+wspaniale	great / wonderfully	Czuję się wspaniale.	I feel great.	To brzmi wspaniale.	That sounds great.
+ogół	whole / generality	Ogół ludzi chce spokoju.	People in general want peace.	Na ogół wstaję wcześnie.	In general, I get up early.
+także	also	Ja także uczę się polskiego.	I am also learning Polish.	Ona lubi kawę, a także herbatę.	She likes coffee and also tea.
+pojąć	to understand / to grasp	Trudno to pojąć.	It is hard to understand this.	Wreszcie pojąłem ten temat.	I finally understood this topic.
+skarb	treasure	To jest mój skarb.	This is my treasure.	Znalazłem stary skarb na mapie.	I found an old treasure on the map.
+wybaczyć	to forgive	Proszę, wybacz mi.	Please forgive me.	Trudno wybaczyć takie słowa.	It is hard to forgive such words.
+szczęście	happiness / luck	Szczęście jest ważne w życiu.	Happiness is important in life.	Miałem dużo szczęścia.	I had a lot of luck.
+wyjść	to leave / to go out	Muszę wyjść z domu.	I need to leave the house.	Ona chce wyjść wieczorem.	She wants to go out in the evening.
+cieszyć się	to enjoy / to be happy	Cieszę się z twojego sukcesu.	I am happy about your success.	Dzieci cieszą się wakacjami.	The children are enjoying the holidays.
+krew	blood	Krew jest czerwona.	Blood is red.	Lekarz zbadał moją krew.	The doctor tested my blood.
+ciało	body	Moje ciało potrzebuje odpoczynku.	My body needs rest.	Sport jest dobry dla ciała.	Sport is good for the body.
+należy	should / belongs	Należy umyć ręce przed jedzeniem.	You should wash your hands before eating.	Ten dom należy do mojej babci.	This house belongs to my grandmother.
+przeciwko	against	Jestem przeciwko temu pomysłowi.	I am against this idea.	Gramy przeciwko silnej drużynie.	We are playing against a strong team.
+ruszać	to move	Nie ruszaj tego pudełka.	Do not move this box.	Samochód zaczyna ruszać.	The car is starting to move.
+oznaczać	to mean / to mark	Co oznacza to słowo?	What does this word mean?	Ten znak oznacza zakaz wjazdu.	This sign means no entry.
+twarz	face	Jej twarz jest spokojna.	Her face is calm.	Umyj twarz rano.	Wash your face in the morning.
+bezpieczny	safe	To miejsce jest bezpieczne.	This place is safe.	Chcę mieć bezpieczny dom.	I want to have a safe home.
+droga	road / way	Ta droga prowadzi do miasta.	This road leads to the city.	Droga była długa.	The road was long.
+rada	advice	Dziękuję za dobrą radę.	Thank you for the good advice.	Potrzebuję twojej rady.	I need your advice.
+zewnątrz	outside	Na zewnątrz jest zimno.	It is cold outside.	Dzieci bawią się na zewnątrz.	The children are playing outside.
+wypadek	accident	Widziałem wypadek na drodze.	I saw an accident on the road.	To był mały wypadek.	It was a small accident.
+zależeć	to depend	To zależy od pogody.	It depends on the weather.	Wszystko zależy od ciebie.	Everything depends on you.
+ciężko	hard / heavily	Ciężko pracuję każdego dnia.	I work hard every day.	Jest mi ciężko o tym mówić.	It is hard for me to talk about this.
+kiedykolwiek	ever / whenever	Czy kiedykolwiek byłeś w Polsce?	Have you ever been to Poland?	Zadzwoń, kiedykolwiek będziesz gotowy.	Call whenever you are ready.
+temat	subject / topic	To jest ciekawy temat.	This is an interesting topic.	Nie chcę zmieniać tematu.	I do not want to change the subject.
+wkrótce	soon	Wkrótce wrócę.	I will return soon.	Spotkamy się wkrótce.	We will meet soon.
+lecieć	to fly	Ptak leci wysoko.	The bird is flying high.	Jutro lecę do Londynu.	Tomorrow I am flying to London.
+nieważny	invalid / unimportant	Ten bilet jest nieważny.	This ticket is invalid.	To szczegół nieważny dla sprawy.	This is an unimportant detail for the matter.
+zdjąć	to remove / to take off	Muszę zdjąć kurtkę.	I need to take off my jacket.	Zdejmij buty przed wejściem.	Take off your shoes before entering.
+statek	ship	Statek płynie po morzu.	The ship is sailing on the sea.	Widziałem duży statek w porcie.	I saw a big ship in the port.
+dół	bottom / down / pit	Na dole jest kuchnia.	The kitchen is downstairs.	Uważaj na głęboki dół.	Watch out for the deep hole.
+tędy	this way	Idź tędy do wyjścia.	Go this way to the exit.	Czy możemy przejść tędy?	Can we go through this way?
+według	according to	Według mnie to dobry pomysł.	In my opinion, this is a good idea.	Według raportu sprzedaż rośnie.	According to the report, sales are growing.
+jakoś	somehow	Jakoś sobie poradzę.	I will manage somehow.	Musimy jakoś rozwiązać ten problem.	We have to solve this problem somehow.
+czyli	that is / which means	Uczę się polskiego, czyli mam dużo pracy.	I am learning Polish, which means I have a lot of work.	Jutro jest sobota, czyli nie pracuję.	Tomorrow is Saturday, which means I do not work.
+chociaż	although	Chociaż pada deszcz, idę na spacer.	Although it is raining, I am going for a walk.	Lubię ten film, chociaż jest długi.	I like this movie, although it is long.
+kłopot	trouble / problem	Mam mały kłopot.	I have a small problem.	To nie jest duży kłopot.	This is not a big problem.
+szansa	chance	Mam szansę na dobrą pracę.	I have a chance for a good job.	To twoja ostatnia szansa.	This is your last chance.
+niemożliwe	impossible	To jest niemożliwe.	This is impossible.	Niemożliwe, że już jest tak późno.	It is impossible that it is already so late.
+sądzić	to think / to judge	Sądzę, że masz rację.	I think you are right.	Nie sądź ludzi zbyt szybko.	Do not judge people too quickly.
+szkoda	pity / damage	Szkoda, że nie możesz przyjść.	It is a pity that you cannot come.	Po wypadku szkoda była duża.	After the accident, the damage was large.
+sprawdzić	to check / to verify	Muszę sprawdzić pocztę.	I need to check my mail.	Sprawdź odpowiedź jeszcze raz.	Check the answer one more time.
+zacząć	to start	Chcę zacząć naukę dzisiaj.	I want to start studying today.	Zacznijmy od pierwszego zadania.	Let's start with the first task.
+cicho	quietly / quiet	Mów cicho, proszę.	Speak quietly, please.	W pokoju jest cicho.	It is quiet in the room.
+spróbować	to try	Chcę spróbować tego dania.	I want to try this dish.	Spróbuj powiedzieć to po polsku.	Try to say it in Polish.
+powodzenia	good luck	Powodzenia na egzaminie.	Good luck on the exam.	Życzę ci powodzenia.	I wish you good luck.
+środek	middle / center	W środku pokoju stoi stół.	There is a table in the middle of the room.	Środek miasta jest piękny.	The city center is beautiful.
+wspólnego	common	Nie mamy nic wspólnego.	We have nothing in common.	Co mamy wspólnego?	What do we have in common?
+dawno	a long time ago	Dawno cię nie widziałem.	I have not seen you for a long time.	To było bardzo dawno.	That was a very long time ago.
+zmienić	to change	Chcę zmienić plan.	I want to change the plan.	Musimy zmienić godzinę spotkania.	We need to change the meeting time.
+gość	guest	Gość czeka w salonie.	The guest is waiting in the living room.	Zaprosiłem gościa na obiad.	I invited a guest for dinner.
+walczyć	to fight	Musimy walczyć o swoje marzenia.	We must fight for our dreams.	Oni walczą z problemami.	They are fighting with problems.
+chwileczkę	wait a minute / just a moment	Chwileczkę, zaraz wracam.	Just a moment, I will be right back.	Proszę poczekać chwileczkę.	Please wait a moment.
+wystarczająco	enough / sufficiently	Mam wystarczająco dużo czasu.	I have enough time.	To jest wystarczająco dobre.	This is good enough.
+niestety	unfortunately	Niestety nie mogę przyjść.	Unfortunately, I cannot come.	Niestety pociąg się spóźnił.	Unfortunately, the train was late.
+nagle	suddenly	Nagle zaczął padać deszcz.	Suddenly it started raining.	Nagle usłyszałem hałas.	Suddenly I heard a noise.
+większość	majority	Większość ludzi lubi muzykę.	Most people like music.	Większość zadań jest łatwa.	Most tasks are easy.
+błąd	error / mistake	To jest mały błąd.	This is a small mistake.	Muszę poprawić błąd w tekście.	I need to correct a mistake in the text.
+obiecywać	to promise	Nie chcę obiecywać za dużo.	I do not want to promise too much.	Ona obiecuje, że pomoże.	She promises that she will help.
+początek	beginning	Początek filmu był nudny.	The beginning of the movie was boring.	To dobry początek.	This is a good beginning.
+zatem	therefore / so	Zatem zaczynajmy.	So let's begin.	Nie mamy czasu, zatem musimy iść.	We do not have time, so we have to go.
+istnieć	to exist	Czy takie miejsce istnieje?	Does such a place exist?	Ten problem istnieje od dawna.	This problem has existed for a long time.
+wojna	war	Wojna niszczy życie ludzi.	War destroys people's lives.	Czytałem książkę o wojnie.	I read a book about the war.
+okazja	opportunity / occasion	To dobra okazja do nauki.	This is a good opportunity to learn.	Mam okazję poznać nowych ludzi.	I have an opportunity to meet new people.
+oraz	and	Kupiłem chleb oraz mleko.	I bought bread and milk.	Ona mówi po polsku oraz po angielsku.	She speaks Polish and English.
+niby	supposedly / kind of	To niby łatwe, ale mam problem.	It is supposedly easy, but I have a problem.	On niby żartuje, ale mówi poważnie.	He is supposedly joking, but he is speaking seriously.
+nienawidzić	to hate	Nie chcę nikogo nienawidzić.	I do not want to hate anyone.	On nienawidzi zimnej kawy.	He hates cold coffee.
+przysięgać	to swear / to promise solemnly	Przysięgam, że mówię prawdę.	I swear that I am telling the truth.	Nie lubię przysięgać bez powodu.	I do not like to swear without a reason.
+strasznie	terribly / extremely	Jestem strasznie zmęczony.	I am terribly tired.	Strasznie lubię tę piosenkę.	I really like this song.
+potrafić	to be able to / can	Potrafię mówić po polsku.	I can speak Polish.	Czy potrafisz gotować?	Can you cook?
+wybór	choice	To jest trudny wybór.	This is a difficult choice.	Masz wolny wybór.	You have a free choice.
+dowiedzieć się	to find out	Chcę dowiedzieć się prawdy.	I want to find out the truth.	Dowiedziałem się o tym wczoraj.	I found out about it yesterday.
+żartować	to joke	Lubię żartować z przyjaciółmi.	I like joking with friends.	Nie żartuj z takich spraw.	Do not joke about such things.
+uwielbiać	to adore / to love	Uwielbiam polską muzykę.	I love Polish music.	Ona uwielbia czytać książki.	She loves reading books.
+zwykle	usually	Zwykle wstaję o siódmej.	I usually get up at seven.	On zwykle pije kawę rano.	He usually drinks coffee in the morning.
+rozkaz	order / command	Żołnierz wykonał rozkaz.	The soldier carried out the order.	To był jasny rozkaz.	It was a clear order.
+oboje	both (people only)	Oboje uczymy się polskiego.	We are both learning Polish.	Oboje lubimy podróże.	We both like traveling.
+ponownie	again	Spróbuj ponownie.	Try again.	Spotkamy się ponownie jutro.	We will meet again tomorrow.
+walka	fight / struggle	Walka była trudna.	The fight was difficult.	To walka o lepsze życie.	It is a fight for a better life.
+wreszcie	finally	Wreszcie jestem w domu.	Finally I am at home.	Wreszcie rozumiem ten temat.	Finally I understand this topic.
